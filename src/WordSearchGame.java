@@ -25,6 +25,10 @@ public class WordSearchGame implements IGame {
 
     }
 
+    @Override
+    public IGame createGame() {
+        return new WordSearchGame();
+    }
 
     @Override
     public void play() {

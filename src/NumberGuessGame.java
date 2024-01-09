@@ -3,6 +3,10 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class NumberGuessGame implements IGame{
+
+    public IGame createGame() {
+        return new NumberGuessGame();
+    }
     @Override
     public void play(){
         Scanner scanner = new Scanner(System.in);
