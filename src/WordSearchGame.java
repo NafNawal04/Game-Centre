@@ -21,9 +21,6 @@ public class WordSearchGame {
     private static void displayGrid() {
 
         System.out.println("The words you will be searching for will have 8 hints.");
-        for (String word : wordHints.keySet()) {
-            System.out.println(word);
-        }
 
 
     }
