@@ -2,8 +2,9 @@ package src;
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGuessGame {
-    public static void main(String[] args) {
+public class NumberGuessGame implements IGame{
+    @Override
+    public void play(){
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 

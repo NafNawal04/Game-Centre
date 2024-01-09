@@ -2,7 +2,7 @@ package src;
 
 import java.util.*;
 
-public class WordSearchGame {
+public class WordSearchGame implements IGame {
 
     private static final Map<String, List<String>> wordHints = new HashMap<>();
 
@@ -26,7 +26,7 @@ public class WordSearchGame {
     }
 
 
-    public static void main(String[] args) {
+    public void play() {
         initializeWordHints();
         displayGrid();
         System.out.println("Welcome to the Word Search Game!");
