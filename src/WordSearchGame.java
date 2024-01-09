@@ -26,10 +26,11 @@ public class WordSearchGame implements IGame {
     }
 
 
+    @Override
     public void play() {
         initializeWordHints();
-        displayGrid();
         System.out.println("Welcome to the Word Search Game!");
+        displayGrid();
 
         Scanner scanner = new Scanner(System.in);
 
