@@ -1,4 +1,7 @@
 package src;
+import src.NumberGuessGame.NumberGuessGame;
+import src.WordSearchGame.WordSearchGame;
+
 import java.util.HashMap;
 import java.util.Map;
 public class GameSelector{

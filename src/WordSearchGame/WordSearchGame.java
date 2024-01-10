@@ -1,4 +1,6 @@
-package src;
+package src.WordSearchGame;
+
+import src.IGame;
 
 import java.util.*;
 

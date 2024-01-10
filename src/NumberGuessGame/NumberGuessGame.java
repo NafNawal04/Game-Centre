@@ -1,8 +1,10 @@
-package src;
+package src.NumberGuessGame;
+import src.IGame;
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGuessGame implements IGame{
+public class NumberGuessGame implements IGame {
 
     public IGame createGame() {
         return new NumberGuessGame();
