@@ -51,7 +51,7 @@ public class WordSearchGame implements IGame {
             System.out.println("\nYour word has " + hints.size() + " hints. Here's your first hint: " + hints.get(hintIndex));
 
             while (true) {
-                System.out.print("Enter your guess (or type 'EXIT' to quit): ");
+                System.out.print("Enter your guess [or type 'EXIT' to quit]: ");
                 String userGuess = scanner.nextLine().toUpperCase();
 
                 if (userGuess.equals("EXIT")) {
