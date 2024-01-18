@@ -1,6 +1,4 @@
-package src.SnakeLadderGame;
-
-import src.IGame;
+package src;
 
 
 public class SnakeLadderGame implements IGame {

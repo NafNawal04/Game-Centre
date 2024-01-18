@@ -1,4 +1,4 @@
-package src.SnakeLadderGame;
+package src;
 
 public class BoardInfo{
     static String[][] board = {
@@ -13,6 +13,8 @@ public class BoardInfo{
             { "LS", "19", "18", "17", "16", "15", "14", "13", "12", "11" },
             { "1 ", "LS", "3 ", "4 ", "5 ", "6 ", "7 ", "LS", "9 ", "10" }
     };
+
+
 
 
     static String createBoardWithColors(int row, int column, int[] players, int length)

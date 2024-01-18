@@ -1,4 +1,4 @@
-package src.SnakeLadderGame;
+package src;
 
 import java.util.Scanner;
 

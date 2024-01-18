@@ -1,11 +1,9 @@
-package src.SnakeLadderGame;
+package src;
 
 
 public class PlayModule{
     PlayerInfo play = new PlayerInfo();
-
     int[] thePlayers = play.players;
-
     String[] thePlayerNames = play.playerNames;
     int[][] snakesValueDrop = {
             { 29, 9 },
@@ -40,7 +38,7 @@ public class PlayModule{
             for (int i = 0; i < play.numberOfPlayers; i++)
             {
                 playerMakesMove(i);
-                BoardInfo.printTheBoard(play.players);
+                BoardInfo.printTheBoard(thePlayers);
 
 
                 try{
@@ -73,7 +71,7 @@ public class PlayModule{
             System.out.println("Rolling the dice for "+ thePlayerNames[playerNumber] + " .......");
 
             try{
-                Thread.sleep(2000);
+                Thread.sleep(4000);
             }
             catch(InterruptedException e)
             {

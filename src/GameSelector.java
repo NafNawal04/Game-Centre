@@ -1,8 +1,4 @@
 package src;
-import src.NumberGuessGame.NumberGuessGame;
-import src.SnakeLadderGame.SnakeLadderGame;
-import src.WordSearchGame.WordSearchGame;
-
 import java.util.HashMap;
 import java.util.Map;
 public class GameSelector{
@@ -11,7 +7,7 @@ public class GameSelector{
 
     static {
         games.put(1, new NumberGuessGame());
-        games.put(2, new WordSearchGame());
+        games.put(2, new WordGuessGame());
         games.put(3, new SnakeLadderGame());
 
     }

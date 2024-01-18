@@ -1,5 +1,4 @@
-package src.NumberGuessGame;
-import src.IGame;
+package src;
 
 import java.util.Random;
 import java.util.Scanner;
