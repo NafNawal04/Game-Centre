@@ -1,0 +1,21 @@
+APPLE, It's a type of fruit, It has 5 letters, Often red or green, Can be eaten raw, Keeps the doctor away
+TRAIN, It's a mode of transportation, It has 5 letters, Runs on tracks, Commonly used for commuting, Has multiple carriages
+GUITAR, It's a musical instrument, It has 6 letters, Has strings, Used in many music genres, Often played with a pick
+ROCKET, It's a type of vehicle, It has 6 letters, Used for space travel, Launches vertically, NASA uses it
+RIVER, It's a natural watercourse, It has 5 letters, Flows into a sea or ocean, Fresh water, Known for meandering paths
+MOON, It's a celestial body, It has 4 letters, Orbits planets, Visible at night, Has phases
+TIGER, It's a type of animal, It has 5 letters, Big cat, Striped fur, Carnivorous
+PIZZA, It's a type of food, It has 5 letters, Italian origin, Often has cheese and tomato, Can be topped with various ingredients
+SNAKE, It's a type of reptile, It has 5 letters, Legless, Slithers, Can be venomous
+FLOWER, It's a part of a plant, It has 6 letters, Colorful, Fragrant, Attracts bees
+CLOCK, It's an object, It has 5 letters, Tells time, Can be analog or digital, Often found on walls
+CLOUD, It's a meteorological phenomenon, It has 5 letters, Appears in the sky, Made of water droplets, Can bring rain
+BRIDGE, It's a type of structure, It has 6 letters, Spans physical obstacles, Connects two points, Often crosses rivers
+KNIFE, It's a tool or weapon, It has 5 letters, Has a sharp edge, Used for cutting, Found in kitchens
+FOREST, It's a large area, It has 6 letters, Dominated by trees, Habitat for wildlife, Often a subject in fairy tales
+SCHOOL, It's a type of institution, It has 6 letters, Place of learning, Has teachers and students, Classes are held here
+GHOST, It's a supernatural entity, It has 5 letters, Associated with haunting people, Often depicted as transparent, Seen in horror stories
+MOUNTAIN, It's a natural feature, It has 8 letters, Large and elevated, Often snow-capped, Climbers enjoy it
+DESSERT, It's a type of food, It has 7 letters, Eaten as a sweet course, Can be cakes or pastries, Often served after meals
+JACKET, It's a type of clothing, It has 6 letters, Worn on the upper body, Provides warmth, Has sleeves
+
