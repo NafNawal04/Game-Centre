@@ -11,11 +11,10 @@ public class GameSelector{
         games.put(3, new SnakeLadderGame());
 
     }
-    public static IGame selectGame(int choice) {
+    public static IGame selectGame(int choice)
+    {
         IGame selectedGame = games.get(choice);
         return selectedGame.createGame();
-
-
 
     }
 }

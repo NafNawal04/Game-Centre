@@ -39,7 +39,7 @@ public class PlayerInfo {
     }
 
 
-    //this method stops code duplication in other methods
+
     public int checkPlayerNewPosition(int[][] positions, int playerPosition)
     {
         for (int[] position : positions)

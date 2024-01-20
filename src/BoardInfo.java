@@ -1,6 +1,8 @@
 package src;
 
 public class BoardInfo{
+
+    //I made every attribute and method static here so that I can call them directly in PlayModule class and use them
     static String[][] board = {
             { "FS", "99", "98", "SN", "96", "95", "94", "93", "SN", "91" },
             { "81", "LS", "83", "84", "LS", "SN", "87", "88", "89", "90" },

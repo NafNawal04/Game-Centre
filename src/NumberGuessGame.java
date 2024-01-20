@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class NumberGuessGame implements IGame {
 
-    public IGame createGame() {
+    public IGame createGame()
+    {
         return new NumberGuessGame();
     }
     @Override
@@ -27,9 +28,9 @@ public class NumberGuessGame implements IGame {
             attempts++;
 
             if (userGuess < secretNumber) {
-                System.out.println("It's low! Try again.");
+                System.out.println("It's low! Go Higher!.");
             } else if (userGuess > secretNumber) {
-                System.out.println("It's high! Try again.");
+                System.out.println("It's high! Go lower.");
             } else {
                 System.out.println("Congratulations! You guessed the secret number in " + attempts + " attempts.");
                 break;
