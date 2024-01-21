@@ -5,7 +5,7 @@ Game Centre is a Java-based console gaming project that includes games such as W
 
 ## UML Diagram
 
-![UML Diagram](C:\Users\User\Desktop\Game-Centre-main\src\uml.png)
+<img height="562" src="src/uml.png" width="932" alt="UML Diagram"/>
 
 ## SOLID Principles followed in this project
 - **Single Responsibility Principle**
