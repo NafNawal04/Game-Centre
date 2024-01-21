@@ -36,4 +36,4 @@ Game Centre is a Java-based console gaming project that includes games such as W
    The game operation logic interacts with the `IGame` interface, an abstraction of these details. That is, `GameOperator` class takes `IGame` object having dependency through constructor injection. This means that high-level modules are not dependent on the specifics of each game, but rather on the abstract concept of a game.
  
 ## Developers
- This project has been created by `@NafNawal04` 
+ This project has been created by [@NafNawal04](https://github.com/Naf) 
